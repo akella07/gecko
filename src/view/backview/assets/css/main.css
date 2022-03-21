@@ -1,0 +1,5 @@
+.clearfix { clear:both; margin: 10px 0;}
+.bgw {background: #fff;}
+.single_func {border:2px solid green; padding:10px; border-radius: 20px; margin: 30px 0;}
+.copythis { color: blue; text-decoration: underline; cursor:pointer;}
+.cancopy {background: green; margin: 0 0 0 20px; border-radius:20px; font-size:12px; color:#fff; padding: 3px 10px; line-height:12px;}
